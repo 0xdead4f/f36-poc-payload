@@ -1,0 +1,4 @@
+name: poc
+version: '1.0'
+config-version: 2
+profile: poc
